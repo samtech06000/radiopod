@@ -3,7 +3,7 @@
   <channel>
     <title>NRJ Paris – Piges audio (semaine complète)</title>
     <link>https://piges.alexandremartinat.com/NRJ_Paris/</link>
-    <description>Piges audio NRJ Paris – 24h/24, 7j/7. Fichiers MP3 mis à jour chaque semaine à l'heure de diffusion +1h.</description>
+    <description>Piges audio NRJ Paris – 24h/24, 7j/7. Fichiers MP3 mis à jour chaque semaine à l'heure de diffusion.</description>
     <language>fr-fr</language>
     <image>
       <title>NRJ Paris</title>
@@ -12,1354 +12,1354 @@
     </image>
 <!-- LUNDI -->
     <item>
-      <title>NRJ Paris – Lundi 00h (maj 01h)</title>
+      <title>NRJ Paris – Lundi 00h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/00.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/00.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-00</guid>
-      <pubDate>Mon, 20 Jan 2026 01:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 00h-01h – Mise à jour chaque semaine lundi 01h</description>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 00h-01h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 01h (maj 02h)</title>
+      <title>NRJ Paris – Lundi 01h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/01.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/01.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-01</guid>
-      <pubDate>Mon, 20 Jan 2026 02:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 01h-02h – Mise à jour chaque semaine lundi 02h</description>
+      <pubDate>Mon, 05 Jan 2026 01:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 01h-02h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 02h (maj 03h)</title>
+      <title>NRJ Paris – Lundi 02h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/02.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/02.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-02</guid>
-      <pubDate>Mon, 20 Jan 2026 03:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 02h-03h – Mise à jour chaque semaine lundi 03h</description>
+      <pubDate>Mon, 05 Jan 2026 02:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 02h-03h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 03h (maj 04h)</title>
+      <title>NRJ Paris – Lundi 03h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/03.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/03.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-03</guid>
-      <pubDate>Mon, 20 Jan 2026 04:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 03h-04h – Mise à jour chaque semaine lundi 04h</description>
+      <pubDate>Mon, 05 Jan 2026 03:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 03h-04h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 04h (maj 05h)</title>
+      <title>NRJ Paris – Lundi 04h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/04.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/04.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-04</guid>
-      <pubDate>Mon, 20 Jan 2026 05:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 04h-05h – Mise à jour chaque semaine lundi 05h</description>
+      <pubDate>Mon, 05 Jan 2026 04:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 04h-05h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 05h (maj 06h)</title>
+      <title>NRJ Paris – Lundi 05h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/05.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/05.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-05</guid>
-      <pubDate>Mon, 20 Jan 2026 06:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 05h-06h – Mise à jour chaque semaine lundi 06h</description>
+      <pubDate>Mon, 05 Jan 2026 05:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 05h-06h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 06h (maj 07h)</title>
+      <title>NRJ Paris – Lundi 06h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/06.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/06.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-06</guid>
-      <pubDate>Mon, 20 Jan 2026 07:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 06h-07h – Mise à jour chaque semaine lundi 07h</description>
+      <pubDate>Mon, 05 Jan 2026 06:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 06h-07h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 07h (maj 08h)</title>
+      <title>NRJ Paris – Lundi 07h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/07.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/07.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-07</guid>
-      <pubDate>Mon, 20 Jan 2026 08:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 07h-08h – Mise à jour chaque semaine lundi 08h</description>
+      <pubDate>Mon, 05 Jan 2026 07:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 07h-08h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 08h (maj 09h)</title>
+      <title>NRJ Paris – Lundi 08h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/08.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/08.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-08</guid>
-      <pubDate>Mon, 20 Jan 2026 09:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 08h-09h – Mise à jour chaque semaine lundi 09h</description>
+      <pubDate>Mon, 05 Jan 2026 08:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 08h-09h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 09h (maj 10h)</title>
+      <title>NRJ Paris – Lundi 09h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/09.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/09.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-09</guid>
-      <pubDate>Mon, 20 Jan 2026 10:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 09h-10h – Mise à jour chaque semaine lundi 10h</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 09h-10h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 10h (maj 11h)</title>
+      <title>NRJ Paris – Lundi 10h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/10.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/10.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-10</guid>
-      <pubDate>Mon, 20 Jan 2026 11:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 10h-11h – Mise à jour chaque semaine lundi 11h</description>
+      <pubDate>Mon, 05 Jan 2026 10:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 10h-11h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 11h (maj 12h)</title>
+      <title>NRJ Paris – Lundi 11h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/11.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/11.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-11</guid>
-      <pubDate>Mon, 20 Jan 2026 12:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 11h-12h – Mise à jour chaque semaine lundi 12h</description>
+      <pubDate>Mon, 05 Jan 2026 11:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 11h-12h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 12h (maj 13h)</title>
+      <title>NRJ Paris – Lundi 12h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/12.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/12.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-12</guid>
-      <pubDate>Mon, 20 Jan 2026 13:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 12h-13h – Mise à jour chaque semaine lundi 13h</description>
+      <pubDate>Mon, 05 Jan 2026 12:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 12h-13h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 13h (maj 14h)</title>
+      <title>NRJ Paris – Lundi 13h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/13.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/13.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-13</guid>
-      <pubDate>Mon, 20 Jan 2026 14:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 13h-14h – Mise à jour chaque semaine lundi 14h</description>
+      <pubDate>Mon, 05 Jan 2026 13:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 13h-14h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 14h (maj 15h)</title>
+      <title>NRJ Paris – Lundi 14h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/14.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/14.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-14</guid>
-      <pubDate>Mon, 20 Jan 2026 15:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 14h-15h – Mise à jour chaque semaine lundi 15h</description>
+      <pubDate>Mon, 05 Jan 2026 14:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 14h-15h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 15h (maj 16h)</title>
+      <title>NRJ Paris – Lundi 15h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/15.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/15.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-15</guid>
-      <pubDate>Mon, 20 Jan 2026 16:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 15h-16h – Mise à jour chaque semaine lundi 16h</description>
+      <pubDate>Mon, 05 Jan 2026 15:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 15h-16h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 16h (maj 17h)</title>
+      <title>NRJ Paris – Lundi 16h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/16.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/16.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-16</guid>
-      <pubDate>Mon, 20 Jan 2026 17:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 16h-17h – Mise à jour chaque semaine lundi 17h</description>
+      <pubDate>Mon, 05 Jan 2026 16:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 16h-17h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 17h (maj 18h)</title>
+      <title>NRJ Paris – Lundi 17h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/17.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/17.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-17</guid>
-      <pubDate>Mon, 20 Jan 2026 18:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 17h-18h – Mise à jour chaque semaine lundi 18h</description>
+      <pubDate>Mon, 05 Jan 2026 17:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 17h-18h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 18h (maj 19h)</title>
+      <title>NRJ Paris – Lundi 18h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/18.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/18.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-18</guid>
-      <pubDate>Mon, 20 Jan 2026 19:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 18h-19h – Mise à jour chaque semaine lundi 19h</description>
+      <pubDate>Mon, 05 Jan 2026 18:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 18h-19h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 19h (maj 20h)</title>
+      <title>NRJ Paris – Lundi 19h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/19.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/19.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-19</guid>
-      <pubDate>Mon, 20 Jan 2026 20:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 19h-20h – Mise à jour chaque semaine lundi 20h</description>
+      <pubDate>Mon, 05 Jan 2026 19:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 19h-20h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 20h (maj 21h)</title>
+      <title>NRJ Paris – Lundi 20h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/20.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/20.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-20</guid>
-      <pubDate>Mon, 20 Jan 2026 21:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 20h-21h – Mise à jour chaque semaine lundi 21h</description>
+      <pubDate>Mon, 05 Jan 2026 20:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 20h-21h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 21h (maj 22h)</title>
+      <title>NRJ Paris – Lundi 21h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/21.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/21.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-21</guid>
-      <pubDate>Mon, 20 Jan 2026 22:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 21h-22h – Mise à jour chaque semaine lundi 22h</description>
+      <pubDate>Mon, 05 Jan 2026 21:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 21h-22h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 22h (maj 23h)</title>
+      <title>NRJ Paris – Lundi 22h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/22.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/22.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-22</guid>
-      <pubDate>Mon, 20 Jan 2026 23:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 22h-23h – Mise à jour chaque semaine lundi 23h</description>
+      <pubDate>Mon, 05 Jan 2026 22:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 22h-23h</description>
     </item>
     <item>
-      <title>NRJ Paris – Lundi 23h (maj 00h)</title>
+      <title>NRJ Paris – Lundi 23h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Monday/23.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Monday/23.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Monday-23</guid>
-      <pubDate>Tue, 21 Jan 2026 00:00:00 +0100</pubDate>
-      <description>NRJ Paris Lundi 23h-00h – Mise à jour chaque semaine mardi 00h</description>
+      <pubDate>Mon, 05 Jan 2026 23:00:00 +0100</pubDate>
+      <description>NRJ Paris Lundi 23h-00h</description>
     </item>
 <!-- MARDI -->
     <item>
-      <title>NRJ Paris – Mardi 00h (maj 01h)</title>
+      <title>NRJ Paris – Mardi 00h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/00.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/00.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-00</guid>
-      <pubDate>Tue, 21 Jan 2026 01:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 00h-01h – Mise à jour chaque semaine mardi 01h</description>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 00h-01h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 01h (maj 02h)</title>
+      <title>NRJ Paris – Mardi 01h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/01.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/01.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-01</guid>
-      <pubDate>Tue, 21 Jan 2026 02:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 01h-02h – Mise à jour chaque semaine mardi 02h</description>
+      <pubDate>Tue, 06 Jan 2026 01:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 01h-02h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 02h (maj 03h)</title>
+      <title>NRJ Paris – Mardi 02h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/02.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/02.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-02</guid>
-      <pubDate>Tue, 21 Jan 2026 03:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 02h-03h – Mise à jour chaque semaine mardi 03h</description>
+      <pubDate>Tue, 06 Jan 2026 02:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 02h-03h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 03h (maj 04h)</title>
+      <title>NRJ Paris – Mardi 03h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/03.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/03.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-03</guid>
-      <pubDate>Tue, 21 Jan 2026 04:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 03h-04h – Mise à jour chaque semaine mardi 04h</description>
+      <pubDate>Tue, 06 Jan 2026 03:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 03h-04h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 04h (maj 05h)</title>
+      <title>NRJ Paris – Mardi 04h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/04.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/04.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-04</guid>
-      <pubDate>Tue, 21 Jan 2026 05:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 04h-05h – Mise à jour chaque semaine mardi 05h</description>
+      <pubDate>Tue, 06 Jan 2026 04:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 04h-05h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 05h (maj 06h)</title>
+      <title>NRJ Paris – Mardi 05h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/05.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/05.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-05</guid>
-      <pubDate>Tue, 21 Jan 2026 06:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 05h-06h – Mise à jour chaque semaine mardi 06h</description>
+      <pubDate>Tue, 06 Jan 2026 05:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 05h-06h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 06h (maj 07h)</title>
+      <title>NRJ Paris – Mardi 06h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/06.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/06.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-06</guid>
-      <pubDate>Tue, 21 Jan 2026 07:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 06h-07h – Mise à jour chaque semaine mardi 07h</description>
+      <pubDate>Tue, 06 Jan 2026 06:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 06h-07h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 07h (maj 08h)</title>
+      <title>NRJ Paris – Mardi 07h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/07.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/07.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-07</guid>
-      <pubDate>Tue, 21 Jan 2026 08:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 07h-08h – Mise à jour chaque semaine mardi 08h</description>
+      <pubDate>Tue, 06 Jan 2026 07:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 07h-08h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 08h (maj 09h)</title>
+      <title>NRJ Paris – Mardi 08h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/08.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/08.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-08</guid>
-      <pubDate>Tue, 21 Jan 2026 09:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 08h-09h – Mise à jour chaque semaine mardi 09h</description>
+      <pubDate>Tue, 06 Jan 2026 08:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 08h-09h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 09h (maj 10h)</title>
+      <title>NRJ Paris – Mardi 09h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/09.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/09.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-09</guid>
-      <pubDate>Tue, 21 Jan 2026 10:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 09h-10h – Mise à jour chaque semaine mardi 10h</description>
+      <pubDate>Tue, 06 Jan 2026 09:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 09h-10h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 10h (maj 11h)</title>
+      <title>NRJ Paris – Mardi 10h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/10.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/10.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-10</guid>
-      <pubDate>Tue, 21 Jan 2026 11:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 10h-11h – Mise à jour chaque semaine mardi 11h</description>
+      <pubDate>Tue, 06 Jan 2026 10:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 10h-11h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 11h (maj 12h)</title>
+      <title>NRJ Paris – Mardi 11h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/11.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/11.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-11</guid>
-      <pubDate>Tue, 21 Jan 2026 12:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 11h-12h – Mise à jour chaque semaine mardi 12h</description>
+      <pubDate>Tue, 06 Jan 2026 11:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 11h-12h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 12h (maj 13h)</title>
+      <title>NRJ Paris – Mardi 12h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/12.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/12.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-12</guid>
-      <pubDate>Tue, 21 Jan 2026 13:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 12h-13h – Mise à jour chaque semaine mardi 13h</description>
+      <pubDate>Tue, 06 Jan 2026 12:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 12h-13h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 13h (maj 14h)</title>
+      <title>NRJ Paris – Mardi 13h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/13.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/13.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-13</guid>
-      <pubDate>Tue, 21 Jan 2026 14:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 13h-14h – Mise à jour chaque semaine mardi 14h</description>
+      <pubDate>Tue, 06 Jan 2026 13:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 13h-14h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 14h (maj 15h)</title>
+      <title>NRJ Paris – Mardi 14h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/14.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/14.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-14</guid>
-      <pubDate>Tue, 21 Jan 2026 15:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 14h-15h – Mise à jour chaque semaine mardi 15h</description>
+      <pubDate>Tue, 06 Jan 2026 14:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 14h-15h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 15h (maj 16h)</title>
+      <title>NRJ Paris – Mardi 15h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/15.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/15.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-15</guid>
-      <pubDate>Tue, 21 Jan 2026 16:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 15h-16h – Mise à jour chaque semaine mardi 16h</description>
+      <pubDate>Tue, 06 Jan 2026 15:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 15h-16h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 16h (maj 17h)</title>
+      <title>NRJ Paris – Mardi 16h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/16.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/16.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-16</guid>
-      <pubDate>Tue, 21 Jan 2026 17:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 16h-17h – Mise à jour chaque semaine mardi 17h</description>
+      <pubDate>Tue, 06 Jan 2026 16:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 16h-17h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 17h (maj 18h)</title>
+      <title>NRJ Paris – Mardi 17h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/17.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/17.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-17</guid>
-      <pubDate>Tue, 21 Jan 2026 18:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 17h-18h – Mise à jour chaque semaine mardi 18h</description>
+      <pubDate>Tue, 06 Jan 2026 17:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 17h-18h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 18h (maj 19h)</title>
+      <title>NRJ Paris – Mardi 18h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/18.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/18.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-18</guid>
-      <pubDate>Tue, 21 Jan 2026 19:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 18h-19h – Mise à jour chaque semaine mardi 19h</description>
+      <pubDate>Tue, 06 Jan 2026 18:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 18h-19h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 19h (maj 20h)</title>
+      <title>NRJ Paris – Mardi 19h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/19.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/19.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-19</guid>
-      <pubDate>Tue, 21 Jan 2026 20:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 19h-20h – Mise à jour chaque semaine mardi 20h</description>
+      <pubDate>Tue, 06 Jan 2026 19:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 19h-20h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 20h (maj 21h)</title>
+      <title>NRJ Paris – Mardi 20h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/20.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/20.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-20</guid>
-      <pubDate>Tue, 21 Jan 2026 21:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 20h-21h – Mise à jour chaque semaine mardi 21h</description>
+      <pubDate>Tue, 06 Jan 2026 20:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 20h-21h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 21h (maj 22h)</title>
+      <title>NRJ Paris – Mardi 21h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/21.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/21.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-21</guid>
-      <pubDate>Tue, 21 Jan 2026 22:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 21h-22h – Mise à jour chaque semaine mardi 22h</description>
+      <pubDate>Tue, 06 Jan 2026 21:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 21h-22h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 22h (maj 23h)</title>
+      <title>NRJ Paris – Mardi 22h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/22.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/22.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-22</guid>
-      <pubDate>Tue, 21 Jan 2026 23:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 22h-23h – Mise à jour chaque semaine mardi 23h</description>
+      <pubDate>Tue, 06 Jan 2026 22:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 22h-23h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mardi 23h (maj 00h)</title>
+      <title>NRJ Paris – Mardi 23h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/23.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Tuesday/23.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Tuesday-23</guid>
-      <pubDate>Wed, 22 Jan 2026 00:00:00 +0100</pubDate>
-      <description>NRJ Paris Mardi 23h-00h – Mise à jour chaque semaine mercredi 00h</description>
+      <pubDate>Tue, 06 Jan 2026 23:00:00 +0100</pubDate>
+      <description>NRJ Paris Mardi 23h-00h</description>
     </item>
 <!-- MERCREDI -->
     <item>
-      <title>NRJ Paris – Mercredi 00h (maj 01h)</title>
+      <title>NRJ Paris – Mercredi 00h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/00.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/00.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-00</guid>
-      <pubDate>Wed, 22 Jan 2026 01:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 00h-01h – Mise à jour chaque semaine mercredi 01h</description>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 00h-01h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 01h (maj 02h)</title>
+      <title>NRJ Paris – Mercredi 01h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/01.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/01.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-01</guid>
-      <pubDate>Wed, 22 Jan 2026 02:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 01h-02h – Mise à jour chaque semaine mercredi 02h</description>
+      <pubDate>Wed, 07 Jan 2026 01:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 01h-02h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 02h (maj 03h)</title>
+      <title>NRJ Paris – Mercredi 02h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/02.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/02.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-02</guid>
-      <pubDate>Wed, 22 Jan 2026 03:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 02h-03h – Mise à jour chaque semaine mercredi 03h</description>
+      <pubDate>Wed, 07 Jan 2026 02:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 02h-03h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 03h (maj 04h)</title>
+      <title>NRJ Paris – Mercredi 03h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/03.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/03.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-03</guid>
-      <pubDate>Wed, 22 Jan 2026 04:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 03h-04h – Mise à jour chaque semaine mercredi 04h</description>
+      <pubDate>Wed, 07 Jan 2026 03:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 03h-04h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 04h (maj 05h)</title>
+      <title>NRJ Paris – Mercredi 04h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/04.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/04.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-04</guid>
-      <pubDate>Wed, 22 Jan 2026 05:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 04h-05h – Mise à jour chaque semaine mercredi 05h</description>
+      <pubDate>Wed, 07 Jan 2026 04:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 04h-05h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 05h (maj 06h)</title>
+      <title>NRJ Paris – Mercredi 05h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/05.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/05.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-05</guid>
-      <pubDate>Wed, 22 Jan 2026 06:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 05h-06h – Mise à jour chaque semaine mercredi 06h</description>
+      <pubDate>Wed, 07 Jan 2026 05:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 05h-06h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 06h (maj 07h)</title>
+      <title>NRJ Paris – Mercredi 06h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/06.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/06.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-06</guid>
-      <pubDate>Wed, 22 Jan 2026 07:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 06h-07h – Mise à jour chaque semaine mercredi 07h</description>
+      <pubDate>Wed, 07 Jan 2026 06:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 06h-07h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 07h (maj 08h)</title>
+      <title>NRJ Paris – Mercredi 07h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/07.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/07.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-07</guid>
-      <pubDate>Wed, 22 Jan 2026 08:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 07h-08h – Mise à jour chaque semaine mercredi 08h</description>
+      <pubDate>Wed, 07 Jan 2026 07:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 07h-08h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 08h (maj 09h)</title>
+      <title>NRJ Paris – Mercredi 08h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/08.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/08.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-08</guid>
-      <pubDate>Wed, 22 Jan 2026 09:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 08h-09h – Mise à jour chaque semaine mercredi 09h</description>
+      <pubDate>Wed, 07 Jan 2026 08:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 08h-09h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 09h (maj 10h)</title>
+      <title>NRJ Paris – Mercredi 09h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/09.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/09.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-09</guid>
-      <pubDate>Wed, 22 Jan 2026 10:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 09h-10h – Mise à jour chaque semaine mercredi 10h</description>
+      <pubDate>Wed, 07 Jan 2026 09:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 09h-10h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 10h (maj 11h)</title>
+      <title>NRJ Paris – Mercredi 10h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/10.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/10.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-10</guid>
-      <pubDate>Wed, 22 Jan 2026 11:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 10h-11h – Mise à jour chaque semaine mercredi 11h</description>
+      <pubDate>Wed, 07 Jan 2026 10:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 10h-11h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 11h (maj 12h)</title>
+      <title>NRJ Paris – Mercredi 11h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/11.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/11.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-11</guid>
-      <pubDate>Wed, 22 Jan 2026 12:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 11h-12h – Mise à jour chaque semaine mercredi 12h</description>
+      <pubDate>Wed, 07 Jan 2026 11:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 11h-12h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 12h (maj 13h)</title>
+      <title>NRJ Paris – Mercredi 12h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/12.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/12.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-12</guid>
-      <pubDate>Wed, 22 Jan 2026 13:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 12h-13h – Mise à jour chaque semaine mercredi 13h</description>
+      <pubDate>Wed, 07 Jan 2026 12:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 12h-13h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 13h (maj 14h)</title>
+      <title>NRJ Paris – Mercredi 13h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/13.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/13.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-13</guid>
-      <pubDate>Wed, 22 Jan 2026 14:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 13h-14h – Mise à jour chaque semaine mercredi 14h</description>
+      <pubDate>Wed, 07 Jan 2026 13:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 13h-14h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 14h (maj 15h)</title>
+      <title>NRJ Paris – Mercredi 14h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/14.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/14.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-14</guid>
-      <pubDate>Wed, 22 Jan 2026 15:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 14h-15h – Mise à jour chaque semaine mercredi 15h</description>
+      <pubDate>Wed, 07 Jan 2026 14:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 14h-15h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 15h (maj 16h)</title>
+      <title>NRJ Paris – Mercredi 15h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/15.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/15.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-15</guid>
-      <pubDate>Wed, 22 Jan 2026 16:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 15h-16h – Mise à jour chaque semaine mercredi 16h</description>
+      <pubDate>Wed, 07 Jan 2026 15:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 15h-16h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 16h (maj 17h)</title>
+      <title>NRJ Paris – Mercredi 16h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/16.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/16.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-16</guid>
-      <pubDate>Wed, 22 Jan 2026 17:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 16h-17h – Mise à jour chaque semaine mercredi 17h</description>
+      <pubDate>Wed, 07 Jan 2026 16:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 16h-17h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 17h (maj 18h)</title>
+      <title>NRJ Paris – Mercredi 17h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/17.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/17.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-17</guid>
-      <pubDate>Wed, 22 Jan 2026 18:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 17h-18h – Mise à jour chaque semaine mercredi 18h</description>
+      <pubDate>Wed, 07 Jan 2026 17:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 17h-18h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 18h (maj 19h)</title>
+      <title>NRJ Paris – Mercredi 18h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/18.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/18.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-18</guid>
-      <pubDate>Wed, 22 Jan 2026 19:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 18h-19h – Mise à jour chaque semaine mercredi 19h</description>
+      <pubDate>Wed, 07 Jan 2026 18:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 18h-19h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 19h (maj 20h)</title>
+      <title>NRJ Paris – Mercredi 19h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/19.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/19.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-19</guid>
-      <pubDate>Wed, 22 Jan 2026 20:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 19h-20h – Mise à jour chaque semaine mercredi 20h</description>
+      <pubDate>Wed, 07 Jan 2026 19:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 19h-20h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 20h (maj 21h)</title>
+      <title>NRJ Paris – Mercredi 20h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/20.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/20.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-20</guid>
-      <pubDate>Wed, 22 Jan 2026 21:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 20h-21h – Mise à jour chaque semaine mercredi 21h</description>
+      <pubDate>Wed, 07 Jan 2026 20:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 20h-21h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 21h (maj 22h)</title>
+      <title>NRJ Paris – Mercredi 21h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/21.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/21.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-21</guid>
-      <pubDate>Wed, 22 Jan 2026 22:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 21h-22h – Mise à jour chaque semaine mercredi 22h</description>
+      <pubDate>Wed, 07 Jan 2026 21:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 21h-22h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 22h (maj 23h)</title>
+      <title>NRJ Paris – Mercredi 22h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/22.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/22.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-22</guid>
-      <pubDate>Wed, 22 Jan 2026 23:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 22h-23h – Mise à jour chaque semaine mercredi 23h</description>
+      <pubDate>Wed, 07 Jan 2026 22:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 22h-23h</description>
     </item>
     <item>
-      <title>NRJ Paris – Mercredi 23h (maj 00h)</title>
+      <title>NRJ Paris – Mercredi 23h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/23.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Wednesday/23.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Wednesday-23</guid>
-      <pubDate>Thu, 23 Jan 2026 00:00:00 +0100</pubDate>
-      <description>NRJ Paris Mercredi 23h-00h – Mise à jour chaque semaine jeudi 00h</description>
+      <pubDate>Wed, 07 Jan 2026 23:00:00 +0100</pubDate>
+      <description>NRJ Paris Mercredi 23h-00h</description>
     </item>
 <!-- JEUDI -->
     <item>
-      <title>NRJ Paris – Jeudi 00h (maj 01h)</title>
+      <title>NRJ Paris – Jeudi 00h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/00.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/00.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-00</guid>
-      <pubDate>Thu, 23 Jan 2026 01:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 00h-01h – Mise à jour chaque semaine jeudi 01h</description>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 00h-01h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 01h (maj 02h)</title>
+      <title>NRJ Paris – Jeudi 01h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/01.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/01.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-01</guid>
-      <pubDate>Thu, 23 Jan 2026 02:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 01h-02h – Mise à jour chaque semaine jeudi 02h</description>
+      <pubDate>Thu, 08 Jan 2026 01:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 01h-02h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 02h (maj 03h)</title>
+      <title>NRJ Paris – Jeudi 02h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/02.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/02.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-02</guid>
-      <pubDate>Thu, 23 Jan 2026 03:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 02h-03h – Mise à jour chaque semaine jeudi 03h</description>
+      <pubDate>Thu, 08 Jan 2026 02:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 02h-03h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 03h (maj 04h)</title>
+      <title>NRJ Paris – Jeudi 03h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/03.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/03.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-03</guid>
-      <pubDate>Thu, 23 Jan 2026 04:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 03h-04h – Mise à jour chaque semaine jeudi 04h</description>
+      <pubDate>Thu, 08 Jan 2026 03:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 03h-04h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 04h (maj 05h)</title>
+      <title>NRJ Paris – Jeudi 04h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/04.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/04.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-04</guid>
-      <pubDate>Thu, 23 Jan 2026 05:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 04h-05h – Mise à jour chaque semaine jeudi 05h</description>
+      <pubDate>Thu, 08 Jan 2026 04:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 04h-05h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 05h (maj 06h)</title>
+      <title>NRJ Paris – Jeudi 05h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/05.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/05.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-05</guid>
-      <pubDate>Thu, 23 Jan 2026 06:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 05h-06h – Mise à jour chaque semaine jeudi 06h</description>
+      <pubDate>Thu, 08 Jan 2026 05:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 05h-06h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 06h (maj 07h)</title>
+      <title>NRJ Paris – Jeudi 06h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/06.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/06.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-06</guid>
-      <pubDate>Thu, 23 Jan 2026 07:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 06h-07h – Mise à jour chaque semaine jeudi 07h</description>
+      <pubDate>Thu, 08 Jan 2026 06:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 06h-07h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 07h (maj 08h)</title>
+      <title>NRJ Paris – Jeudi 07h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/07.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/07.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-07</guid>
-      <pubDate>Thu, 23 Jan 2026 08:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 07h-08h – Mise à jour chaque semaine jeudi 08h</description>
+      <pubDate>Thu, 08 Jan 2026 07:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 07h-08h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 08h (maj 09h)</title>
+      <title>NRJ Paris – Jeudi 08h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/08.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/08.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-08</guid>
-      <pubDate>Thu, 23 Jan 2026 09:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 08h-09h – Mise à jour chaque semaine jeudi 09h</description>
+      <pubDate>Thu, 08 Jan 2026 08:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 08h-09h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 09h (maj 10h)</title>
+      <title>NRJ Paris – Jeudi 09h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/09.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/09.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-09</guid>
-      <pubDate>Thu, 23 Jan 2026 10:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 09h-10h – Mise à jour chaque semaine jeudi 10h</description>
+      <pubDate>Thu, 08 Jan 2026 09:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 09h-10h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 10h (maj 11h)</title>
+      <title>NRJ Paris – Jeudi 10h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/10.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/10.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-10</guid>
-      <pubDate>Thu, 23 Jan 2026 11:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 10h-11h – Mise à jour chaque semaine jeudi 11h</description>
+      <pubDate>Thu, 08 Jan 2026 10:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 10h-11h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 11h (maj 12h)</title>
+      <title>NRJ Paris – Jeudi 11h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/11.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/11.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-11</guid>
-      <pubDate>Thu, 23 Jan 2026 12:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 11h-12h – Mise à jour chaque semaine jeudi 12h</description>
+      <pubDate>Thu, 08 Jan 2026 11:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 11h-12h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 12h (maj 13h)</title>
+      <title>NRJ Paris – Jeudi 12h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/12.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/12.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-12</guid>
-      <pubDate>Thu, 23 Jan 2026 13:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 12h-13h – Mise à jour chaque semaine jeudi 13h</description>
+      <pubDate>Thu, 08 Jan 2026 12:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 12h-13h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 13h (maj 14h)</title>
+      <title>NRJ Paris – Jeudi 13h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/13.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/13.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-13</guid>
-      <pubDate>Thu, 23 Jan 2026 14:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 13h-14h – Mise à jour chaque semaine jeudi 14h</description>
+      <pubDate>Thu, 08 Jan 2026 13:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 13h-14h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 14h (maj 15h)</title>
+      <title>NRJ Paris – Jeudi 14h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/14.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/14.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-14</guid>
-      <pubDate>Thu, 23 Jan 2026 15:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 14h-15h – Mise à jour chaque semaine jeudi 15h</description>
+      <pubDate>Thu, 08 Jan 2026 14:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 14h-15h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 15h (maj 16h)</title>
+      <title>NRJ Paris – Jeudi 15h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/15.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/15.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-15</guid>
-      <pubDate>Thu, 23 Jan 2026 16:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 15h-16h – Mise à jour chaque semaine jeudi 16h</description>
+      <pubDate>Thu, 08 Jan 2026 15:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 15h-16h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 16h (maj 17h)</title>
+      <title>NRJ Paris – Jeudi 16h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/16.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/16.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-16</guid>
-      <pubDate>Thu, 23 Jan 2026 17:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 16h-17h – Mise à jour chaque semaine jeudi 17h</description>
+      <pubDate>Thu, 08 Jan 2026 16:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 16h-17h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 17h (maj 18h)</title>
+      <title>NRJ Paris – Jeudi 17h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/17.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/17.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-17</guid>
-      <pubDate>Thu, 23 Jan 2026 18:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 17h-18h – Mise à jour chaque semaine jeudi 18h</description>
+      <pubDate>Thu, 08 Jan 2026 17:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 17h-18h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 18h (maj 19h)</title>
+      <title>NRJ Paris – Jeudi 18h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/18.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/18.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-18</guid>
-      <pubDate>Thu, 23 Jan 2026 19:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 18h-19h – Mise à jour chaque semaine jeudi 19h</description>
+      <pubDate>Thu, 08 Jan 2026 18:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 18h-19h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 19h (maj 20h)</title>
+      <title>NRJ Paris – Jeudi 19h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/19.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/19.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-19</guid>
-      <pubDate>Thu, 23 Jan 2026 20:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 19h-20h – Mise à jour chaque semaine jeudi 20h</description>
+      <pubDate>Thu, 08 Jan 2026 19:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 19h-20h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 20h (maj 21h)</title>
+      <title>NRJ Paris – Jeudi 20h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/20.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/20.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-20</guid>
-      <pubDate>Thu, 23 Jan 2026 21:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 20h-21h – Mise à jour chaque semaine jeudi 21h</description>
+      <pubDate>Thu, 08 Jan 2026 20:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 20h-21h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 21h (maj 22h)</title>
+      <title>NRJ Paris – Jeudi 21h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/21.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/21.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-21</guid>
-      <pubDate>Thu, 23 Jan 2026 22:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 21h-22h – Mise à jour chaque semaine jeudi 22h</description>
+      <pubDate>Thu, 08 Jan 2026 21:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 21h-22h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 22h (maj 23h)</title>
+      <title>NRJ Paris – Jeudi 22h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/22.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/22.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-22</guid>
-      <pubDate>Thu, 23 Jan 2026 23:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 22h-23h – Mise à jour chaque semaine jeudi 23h</description>
+      <pubDate>Thu, 08 Jan 2026 22:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 22h-23h</description>
     </item>
     <item>
-      <title>NRJ Paris – Jeudi 23h (maj 00h)</title>
+      <title>NRJ Paris – Jeudi 23h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Thursday/23.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Thursday/23.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Thursday-23</guid>
-      <pubDate>Fri, 24 Jan 2026 00:00:00 +0100</pubDate>
-      <description>NRJ Paris Jeudi 23h-00h – Mise à jour chaque semaine vendredi 00h</description>
+      <pubDate>Thu, 08 Jan 2026 23:00:00 +0100</pubDate>
+      <description>NRJ Paris Jeudi 23h-00h</description>
     </item>
 <!-- VENDREDI -->
     <item>
-      <title>NRJ Paris – Vendredi 00h (maj 01h)</title>
+      <title>NRJ Paris – Vendredi 00h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/00.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/00.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-00</guid>
-      <pubDate>Fri, 24 Jan 2026 01:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 00h-01h – Mise à jour chaque semaine vendredi 01h</description>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 00h-01h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 01h (maj 02h)</title>
+      <title>NRJ Paris – Vendredi 01h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/01.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/01.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-01</guid>
-      <pubDate>Fri, 24 Jan 2026 02:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 01h-02h – Mise à jour chaque semaine vendredi 02h</description>
+      <pubDate>Fri, 09 Jan 2026 01:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 01h-02h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 02h (maj 03h)</title>
+      <title>NRJ Paris – Vendredi 02h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/02.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/02.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-02</guid>
-      <pubDate>Fri, 24 Jan 2026 03:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 02h-03h – Mise à jour chaque semaine vendredi 03h</description>
+      <pubDate>Fri, 09 Jan 2026 02:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 02h-03h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 03h (maj 04h)</title>
+      <title>NRJ Paris – Vendredi 03h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/03.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/03.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-03</guid>
-      <pubDate>Fri, 24 Jan 2026 04:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 03h-04h – Mise à jour chaque semaine vendredi 04h</description>
+      <pubDate>Fri, 09 Jan 2026 03:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 03h-04h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 04h (maj 05h)</title>
+      <title>NRJ Paris – Vendredi 04h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/04.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/04.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-04</guid>
-      <pubDate>Fri, 24 Jan 2026 05:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 04h-05h – Mise à jour chaque semaine vendredi 05h</description>
+      <pubDate>Fri, 09 Jan 2026 04:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 04h-05h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 05h (maj 06h)</title>
+      <title>NRJ Paris – Vendredi 05h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/05.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/05.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-05</guid>
-      <pubDate>Fri, 24 Jan 2026 06:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 05h-06h – Mise à jour chaque semaine vendredi 06h</description>
+      <pubDate>Fri, 09 Jan 2026 05:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 05h-06h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 06h (maj 07h)</title>
+      <title>NRJ Paris – Vendredi 06h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/06.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/06.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-06</guid>
-      <pubDate>Fri, 24 Jan 2026 07:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 06h-07h – Mise à jour chaque semaine vendredi 07h</description>
+      <pubDate>Fri, 09 Jan 2026 06:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 06h-07h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 07h (maj 08h)</title>
+      <title>NRJ Paris – Vendredi 07h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/07.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/07.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-07</guid>
-      <pubDate>Fri, 24 Jan 2026 08:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 07h-08h – Mise à jour chaque semaine vendredi 08h</description>
+      <pubDate>Fri, 09 Jan 2026 07:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 07h-08h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 08h (maj 09h)</title>
+      <title>NRJ Paris – Vendredi 08h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/08.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/08.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-08</guid>
-      <pubDate>Fri, 24 Jan 2026 09:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 08h-09h – Mise à jour chaque semaine vendredi 09h</description>
+      <pubDate>Fri, 09 Jan 2026 08:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 08h-09h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 09h (maj 10h)</title>
+      <title>NRJ Paris – Vendredi 09h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/09.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/09.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-09</guid>
-      <pubDate>Fri, 24 Jan 2026 10:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 09h-10h – Mise à jour chaque semaine vendredi 10h</description>
+      <pubDate>Fri, 09 Jan 2026 09:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 09h-10h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 10h (maj 11h)</title>
+      <title>NRJ Paris – Vendredi 10h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/10.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/10.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-10</guid>
-      <pubDate>Fri, 24 Jan 2026 11:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 10h-11h – Mise à jour chaque semaine vendredi 11h</description>
+      <pubDate>Fri, 09 Jan 2026 10:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 10h-11h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 11h (maj 12h)</title>
+      <title>NRJ Paris – Vendredi 11h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/11.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/11.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-11</guid>
-      <pubDate>Fri, 24 Jan 2026 12:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 11h-12h – Mise à jour chaque semaine vendredi 12h</description>
+      <pubDate>Fri, 09 Jan 2026 11:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 11h-12h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 12h (maj 13h)</title>
+      <title>NRJ Paris – Vendredi 12h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/12.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/12.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-12</guid>
-      <pubDate>Fri, 24 Jan 2026 13:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 12h-13h – Mise à jour chaque semaine vendredi 13h</description>
+      <pubDate>Fri, 09 Jan 2026 12:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 12h-13h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 13h (maj 14h)</title>
+      <title>NRJ Paris – Vendredi 13h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/13.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/13.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-13</guid>
-      <pubDate>Fri, 24 Jan 2026 14:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 13h-14h – Mise à jour chaque semaine vendredi 14h</description>
+      <pubDate>Fri, 09 Jan 2026 13:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 13h-14h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 14h (maj 15h)</title>
+      <title>NRJ Paris – Vendredi 14h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/14.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/14.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-14</guid>
-      <pubDate>Fri, 24 Jan 2026 15:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 14h-15h – Mise à jour chaque semaine vendredi 15h</description>
+      <pubDate>Fri, 09 Jan 2026 14:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 14h-15h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 15h (maj 16h)</title>
+      <title>NRJ Paris – Vendredi 15h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/15.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/15.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-15</guid>
-      <pubDate>Fri, 24 Jan 2026 16:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 15h-16h – Mise à jour chaque semaine vendredi 16h</description>
+      <pubDate>Fri, 09 Jan 2026 15:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 15h-16h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 16h (maj 17h)</title>
+      <title>NRJ Paris – Vendredi 16h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/16.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/16.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-16</guid>
-      <pubDate>Fri, 24 Jan 2026 17:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 16h-17h – Mise à jour chaque semaine vendredi 17h</description>
+      <pubDate>Fri, 09 Jan 2026 16:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 16h-17h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 17h (maj 18h)</title>
+      <title>NRJ Paris – Vendredi 17h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/17.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/17.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-17</guid>
-      <pubDate>Fri, 24 Jan 2026 18:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 17h-18h – Mise à jour chaque semaine vendredi 18h</description>
+      <pubDate>Fri, 09 Jan 2026 17:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 17h-18h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 18h (maj 19h)</title>
+      <title>NRJ Paris – Vendredi 18h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/18.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/18.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-18</guid>
-      <pubDate>Fri, 24 Jan 2026 19:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 18h-19h – Mise à jour chaque semaine vendredi 19h</description>
+      <pubDate>Fri, 09 Jan 2026 18:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 18h-19h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 19h (maj 20h)</title>
+      <title>NRJ Paris – Vendredi 19h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/19.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/19.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-19</guid>
-      <pubDate>Fri, 24 Jan 2026 20:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 19h-20h – Mise à jour chaque semaine vendredi 20h</description>
+      <pubDate>Fri, 09 Jan 2026 19:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 19h-20h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 20h (maj 21h)</title>
+      <title>NRJ Paris – Vendredi 20h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/20.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/20.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-20</guid>
-      <pubDate>Fri, 24 Jan 2026 21:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 20h-21h – Mise à jour chaque semaine vendredi 21h</description>
+      <pubDate>Fri, 09 Jan 2026 20:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 20h-21h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 21h (maj 22h)</title>
+      <title>NRJ Paris – Vendredi 21h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/21.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/21.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-21</guid>
-      <pubDate>Fri, 24 Jan 2026 22:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 21h-22h – Mise à jour chaque semaine vendredi 22h</description>
+      <pubDate>Fri, 09 Jan 2026 21:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 21h-22h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 22h (maj 23h)</title>
+      <title>NRJ Paris – Vendredi 22h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/22.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/22.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-22</guid>
-      <pubDate>Fri, 24 Jan 2026 23:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 22h-23h – Mise à jour chaque semaine vendredi 23h</description>
+      <pubDate>Fri, 09 Jan 2026 22:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 22h-23h</description>
     </item>
     <item>
-      <title>NRJ Paris – Vendredi 23h (maj 00h)</title>
+      <title>NRJ Paris – Vendredi 23h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Friday/23.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Friday/23.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Friday-23</guid>
-      <pubDate>Sat, 25 Jan 2026 00:00:00 +0100</pubDate>
-      <description>NRJ Paris Vendredi 23h-00h – Mise à jour chaque semaine samedi 00h</description>
+      <pubDate>Fri, 09 Jan 2026 23:00:00 +0100</pubDate>
+      <description>NRJ Paris Vendredi 23h-00h</description>
     </item>
 <!-- SAMEDI -->
     <item>
-      <title>NRJ Paris – Samedi 00h (maj 01h)</title>
+      <title>NRJ Paris – Samedi 00h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/00.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/00.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-00</guid>
-      <pubDate>Sat, 25 Jan 2026 01:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 00h-01h – Mise à jour chaque semaine samedi 01h</description>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 00h-01h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 01h (maj 02h)</title>
+      <title>NRJ Paris – Samedi 01h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/01.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/01.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-01</guid>
-      <pubDate>Sat, 25 Jan 2026 02:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 01h-02h – Mise à jour chaque semaine samedi 02h</description>
+      <pubDate>Sat, 10 Jan 2026 01:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 01h-02h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 02h (maj 03h)</title>
+      <title>NRJ Paris – Samedi 02h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/02.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/02.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-02</guid>
-      <pubDate>Sat, 25 Jan 2026 03:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 02h-03h – Mise à jour chaque semaine samedi 03h</description>
+      <pubDate>Sat, 10 Jan 2026 02:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 02h-03h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 03h (maj 04h)</title>
+      <title>NRJ Paris – Samedi 03h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/03.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/03.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-03</guid>
-      <pubDate>Sat, 25 Jan 2026 04:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 03h-04h – Mise à jour chaque semaine samedi 04h</description>
+      <pubDate>Sat, 10 Jan 2026 03:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 03h-04h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 04h (maj 05h)</title>
+      <title>NRJ Paris – Samedi 04h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/04.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/04.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-04</guid>
-      <pubDate>Sat, 25 Jan 2026 05:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 04h-05h – Mise à jour chaque semaine samedi 05h</description>
+      <pubDate>Sat, 10 Jan 2026 04:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 04h-05h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 05h (maj 06h)</title>
+      <title>NRJ Paris – Samedi 05h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/05.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/05.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-05</guid>
-      <pubDate>Sat, 25 Jan 2026 06:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 05h-06h – Mise à jour chaque semaine samedi 06h</description>
+      <pubDate>Sat, 10 Jan 2026 05:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 05h-06h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 06h (maj 07h)</title>
+      <title>NRJ Paris – Samedi 06h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/06.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/06.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-06</guid>
-      <pubDate>Sat, 25 Jan 2026 07:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 06h-07h – Mise à jour chaque semaine samedi 07h</description>
+      <pubDate>Sat, 10 Jan 2026 06:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 06h-07h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 07h (maj 08h)</title>
+      <title>NRJ Paris – Samedi 07h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/07.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/07.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-07</guid>
-      <pubDate>Sat, 25 Jan 2026 08:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 07h-08h – Mise à jour chaque semaine samedi 08h</description>
+      <pubDate>Sat, 10 Jan 2026 07:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 07h-08h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 08h (maj 09h)</title>
+      <title>NRJ Paris – Samedi 08h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/08.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/08.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-08</guid>
-      <pubDate>Sat, 25 Jan 2026 09:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 08h-09h – Mise à jour chaque semaine samedi 09h</description>
+      <pubDate>Sat, 10 Jan 2026 08:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 08h-09h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 09h (maj 10h)</title>
+      <title>NRJ Paris – Samedi 09h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/09.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/09.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-09</guid>
-      <pubDate>Sat, 25 Jan 2026 10:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 09h-10h – Mise à jour chaque semaine samedi 10h</description>
+      <pubDate>Sat, 10 Jan 2026 09:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 09h-10h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 10h (maj 11h)</title>
+      <title>NRJ Paris – Samedi 10h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/10.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/10.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-10</guid>
-      <pubDate>Sat, 25 Jan 2026 11:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 10h-11h – Mise à jour chaque semaine samedi 11h</description>
+      <pubDate>Sat, 10 Jan 2026 10:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 10h-11h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 11h (maj 12h)</title>
+      <title>NRJ Paris – Samedi 11h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/11.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/11.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-11</guid>
-      <pubDate>Sat, 25 Jan 2026 12:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 11h-12h – Mise à jour chaque semaine samedi 12h</description>
+      <pubDate>Sat, 10 Jan 2026 11:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 11h-12h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 12h (maj 13h)</title>
+      <title>NRJ Paris – Samedi 12h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/12.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/12.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-12</guid>
-      <pubDate>Sat, 25 Jan 2026 13:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 12h-13h – Mise à jour chaque semaine samedi 13h</description>
+      <pubDate>Sat, 10 Jan 2026 12:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 12h-13h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 13h (maj 14h)</title>
+      <title>NRJ Paris – Samedi 13h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/13.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/13.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-13</guid>
-      <pubDate>Sat, 25 Jan 2026 14:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 13h-14h – Mise à jour chaque semaine samedi 14h</description>
+      <pubDate>Sat, 10 Jan 2026 13:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 13h-14h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 14h (maj 15h)</title>
+      <title>NRJ Paris – Samedi 14h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/14.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/14.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-14</guid>
-      <pubDate>Sat, 25 Jan 2026 15:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 14h-15h – Mise à jour chaque semaine samedi 15h</description>
+      <pubDate>Sat, 10 Jan 2026 14:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 14h-15h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 15h (maj 16h)</title>
+      <title>NRJ Paris – Samedi 15h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/15.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/15.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-15</guid>
-      <pubDate>Sat, 25 Jan 2026 16:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 15h-16h – Mise à jour chaque semaine samedi 16h</description>
+      <pubDate>Sat, 10 Jan 2026 15:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 15h-16h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 16h (maj 17h)</title>
+      <title>NRJ Paris – Samedi 16h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/16.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/16.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-16</guid>
-      <pubDate>Sat, 25 Jan 2026 17:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 16h-17h – Mise à jour chaque semaine samedi 17h</description>
+      <pubDate>Sat, 10 Jan 2026 16:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 16h-17h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 17h (maj 18h)</title>
+      <title>NRJ Paris – Samedi 17h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/17.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/17.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-17</guid>
-      <pubDate>Sat, 25 Jan 2026 18:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 17h-18h – Mise à jour chaque semaine samedi 18h</description>
+      <pubDate>Sat, 10 Jan 2026 17:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 17h-18h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 18h (maj 19h)</title>
+      <title>NRJ Paris – Samedi 18h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/18.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/18.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-18</guid>
-      <pubDate>Sat, 25 Jan 2026 19:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 18h-19h – Mise à jour chaque semaine samedi 19h</description>
+      <pubDate>Sat, 10 Jan 2026 18:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 18h-19h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 19h (maj 20h)</title>
+      <title>NRJ Paris – Samedi 19h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/19.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/19.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-19</guid>
-      <pubDate>Sat, 25 Jan 2026 20:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 19h-20h – Mise à jour chaque semaine samedi 20h</description>
+      <pubDate>Sat, 10 Jan 2026 19:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 19h-20h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 20h (maj 21h)</title>
+      <title>NRJ Paris – Samedi 20h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/20.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/20.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-20</guid>
-      <pubDate>Sat, 25 Jan 2026 21:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 20h-21h – Mise à jour chaque semaine samedi 21h</description>
+      <pubDate>Sat, 10 Jan 2026 20:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 20h-21h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 21h (maj 22h)</title>
+      <title>NRJ Paris – Samedi 21h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/21.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/21.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-21</guid>
-      <pubDate>Sat, 25 Jan 2026 22:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 21h-22h – Mise à jour chaque semaine samedi 22h</description>
+      <pubDate>Sat, 10 Jan 2026 21:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 21h-22h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 22h (maj 23h)</title>
+      <title>NRJ Paris – Samedi 22h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/22.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/22.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-22</guid>
-      <pubDate>Sat, 25 Jan 2026 23:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 22h-23h – Mise à jour chaque semaine samedi 23h</description>
+      <pubDate>Sat, 10 Jan 2026 22:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 22h-23h</description>
     </item>
     <item>
-      <title>NRJ Paris – Samedi 23h (maj 00h)</title>
+      <title>NRJ Paris – Samedi 23h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Saturday/23.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Saturday/23.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Saturday-23</guid>
-      <pubDate>Sun, 26 Jan 2026 00:00:00 +0100</pubDate>
-      <description>NRJ Paris Samedi 23h-00h – Mise à jour chaque semaine dimanche 00h</description>
+      <pubDate>Sat, 10 Jan 2026 23:00:00 +0100</pubDate>
+      <description>NRJ Paris Samedi 23h-00h</description>
     </item>
 <!-- DIMANCHE -->
     <item>
-      <title>NRJ Paris – Dimanche 00h (maj 01h)</title>
+      <title>NRJ Paris – Dimanche 00h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/00.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/00.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-00</guid>
-      <pubDate>Sun, 26 Jan 2026 01:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 00h-01h – Mise à jour chaque semaine dimanche 01h</description>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 00h-01h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 01h (maj 02h)</title>
+      <title>NRJ Paris – Dimanche 01h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/01.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/01.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-01</guid>
-      <pubDate>Sun, 26 Jan 2026 02:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 01h-02h – Mise à jour chaque semaine dimanche 02h</description>
+      <pubDate>Sun, 11 Jan 2026 01:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 01h-02h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 02h (maj 03h)</title>
+      <title>NRJ Paris – Dimanche 02h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/02.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/02.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-02</guid>
-      <pubDate>Sun, 26 Jan 2026 03:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 02h-03h – Mise à jour chaque semaine dimanche 03h</description>
+      <pubDate>Sun, 11 Jan 2026 02:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 02h-03h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 03h (maj 04h)</title>
+      <title>NRJ Paris – Dimanche 03h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/03.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/03.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-03</guid>
-      <pubDate>Sun, 26 Jan 2026 04:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 03h-04h – Mise à jour chaque semaine dimanche 04h</description>
+      <pubDate>Sun, 11 Jan 2026 03:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 03h-04h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 04h (maj 05h)</title>
+      <title>NRJ Paris – Dimanche 04h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/04.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/04.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-04</guid>
-      <pubDate>Sun, 26 Jan 2026 05:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 04h-05h – Mise à jour chaque semaine dimanche 05h</description>
+      <pubDate>Sun, 11 Jan 2026 04:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 04h-05h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 05h (maj 06h)</title>
+      <title>NRJ Paris – Dimanche 05h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/05.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/05.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-05</guid>
-      <pubDate>Sun, 26 Jan 2026 06:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 05h-06h – Mise à jour chaque semaine dimanche 06h</description>
+      <pubDate>Sun, 11 Jan 2026 05:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 05h-06h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 06h (maj 07h)</title>
+      <title>NRJ Paris – Dimanche 06h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/06.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/06.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-06</guid>
-      <pubDate>Sun, 26 Jan 2026 07:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 06h-07h – Mise à jour chaque semaine dimanche 07h</description>
+      <pubDate>Sun, 11 Jan 2026 06:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 06h-07h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 07h (maj 08h)</title>
+      <title>NRJ Paris – Dimanche 07h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/07.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/07.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-07</guid>
-      <pubDate>Sun, 26 Jan 2026 08:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 07h-08h – Mise à jour chaque semaine dimanche 08h</description>
+      <pubDate>Sun, 11 Jan 2026 07:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 07h-08h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 08h (maj 09h)</title>
+      <title>NRJ Paris – Dimanche 08h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/08.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/08.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-08</guid>
-      <pubDate>Sun, 26 Jan 2026 09:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 08h-09h – Mise à jour chaque semaine dimanche 09h</description>
+      <pubDate>Sun, 11 Jan 2026 08:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 08h-09h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 09h (maj 10h)</title>
+      <title>NRJ Paris – Dimanche 09h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/09.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/09.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-09</guid>
-      <pubDate>Sun, 26 Jan 2026 10:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 09h-10h – Mise à jour chaque semaine dimanche 10h</description>
+      <pubDate>Sun, 11 Jan 2026 09:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 09h-10h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 10h (maj 11h)</title>
+      <title>NRJ Paris – Dimanche 10h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/10.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/10.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-10</guid>
-      <pubDate>Sun, 26 Jan 2026 11:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 10h-11h – Mise à jour chaque semaine dimanche 11h</description>
+      <pubDate>Sun, 11 Jan 2026 10:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 10h-11h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 11h (maj 12h)</title>
+      <title>NRJ Paris – Dimanche 11h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/11.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/11.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-11</guid>
-      <pubDate>Sun, 26 Jan 2026 12:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 11h-12h – Mise à jour chaque semaine dimanche 12h</description>
+      <pubDate>Sun, 11 Jan 2026 11:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 11h-12h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 12h (maj 13h)</title>
+      <title>NRJ Paris – Dimanche 12h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/12.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/12.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-12</guid>
-      <pubDate>Sun, 26 Jan 2026 13:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 12h-13h – Mise à jour chaque semaine dimanche 13h</description>
+      <pubDate>Sun, 11 Jan 2026 12:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 12h-13h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 13h (maj 14h)</title>
+      <title>NRJ Paris – Dimanche 13h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/13.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/13.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-13</guid>
-      <pubDate>Sun, 26 Jan 2026 14:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 13h-14h – Mise à jour chaque semaine dimanche 14h</description>
+      <pubDate>Sun, 11 Jan 2026 13:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 13h-14h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 14h (maj 15h)</title>
+      <title>NRJ Paris – Dimanche 14h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/14.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/14.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-14</guid>
-      <pubDate>Sun, 26 Jan 2026 15:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 14h-15h – Mise à jour chaque semaine dimanche 15h</description>
+      <pubDate>Sun, 11 Jan 2026 14:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 14h-15h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 15h (maj 16h)</title>
+      <title>NRJ Paris – Dimanche 15h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/15.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/15.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-15</guid>
-      <pubDate>Sun, 26 Jan 2026 16:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 15h-16h – Mise à jour chaque semaine dimanche 16h</description>
+      <pubDate>Sun, 11 Jan 2026 15:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 15h-16h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 16h (maj 17h)</title>
+      <title>NRJ Paris – Dimanche 16h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/16.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/16.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-16</guid>
-      <pubDate>Sun, 26 Jan 2026 17:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 16h-17h – Mise à jour chaque semaine dimanche 17h</description>
+      <pubDate>Sun, 11 Jan 2026 16:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 16h-17h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 17h (maj 18h)</title>
+      <title>NRJ Paris – Dimanche 17h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/17.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/17.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-17</guid>
-      <pubDate>Sun, 26 Jan 2026 18:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 17h-18h – Mise à jour chaque semaine dimanche 18h</description>
+      <pubDate>Sun, 11 Jan 2026 17:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 17h-18h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 18h (maj 19h)</title>
+      <title>NRJ Paris – Dimanche 18h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/18.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/18.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-18</guid>
-      <pubDate>Sun, 26 Jan 2026 19:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 18h-19h – Mise à jour chaque semaine dimanche 19h</description>
+      <pubDate>Sun, 11 Jan 2026 18:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 18h-19h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 19h (maj 20h)</title>
+      <title>NRJ Paris – Dimanche 19h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/19.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/19.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-19</guid>
-      <pubDate>Sun, 26 Jan 2026 20:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 19h-20h – Mise à jour chaque semaine dimanche 20h</description>
+      <pubDate>Sun, 11 Jan 2026 19:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 19h-20h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 20h (maj 21h)</title>
+      <title>NRJ Paris – Dimanche 20h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/20.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/20.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-20</guid>
-      <pubDate>Sun, 26 Jan 2026 21:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 20h-21h – Mise à jour chaque semaine dimanche 21h</description>
+      <pubDate>Sun, 11 Jan 2026 20:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 20h-21h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 21h (maj 22h)</title>
+      <title>NRJ Paris – Dimanche 21h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/21.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/21.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-21</guid>
-      <pubDate>Sun, 26 Jan 2026 22:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 21h-22h – Mise à jour chaque semaine dimanche 22h</description>
+      <pubDate>Sun, 11 Jan 2026 21:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 21h-22h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 22h (maj 23h)</title>
+      <title>NRJ Paris – Dimanche 22h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/22.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/22.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-22</guid>
-      <pubDate>Sun, 26 Jan 2026 23:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 22h-23h – Mise à jour chaque semaine dimanche 23h</description>
+      <pubDate>Sun, 11 Jan 2026 22:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 22h-23h</description>
     </item>
     <item>
-      <title>NRJ Paris – Dimanche 23h (maj 00h)</title>
+      <title>NRJ Paris – Dimanche 23h</title>
       <link>https://piges.alexandremartinat.com/NRJ_Paris/Sunday/23.mp3</link>
       <enclosure url="https://piges.alexandremartinat.com/NRJ_Paris/Sunday/23.mp3" type="audio/mpeg" length="0"/>
       <guid>NRJParis-Sunday-23</guid>
-      <pubDate>Mon, 27 Jan 2026 00:00:00 +0100</pubDate>
-      <description>NRJ Paris Dimanche 23h-00h – Mise à jour chaque semaine lundi 00h</description>
+      <pubDate>Sun, 11 Jan 2026 23:00:00 +0100</pubDate>
+      <description>NRJ Paris Dimanche 23h-00h</description>
     </item>
   </channel>
 </rss>
