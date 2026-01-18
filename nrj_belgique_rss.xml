@@ -1,0 +1,1358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>NRJ Belgique – Piges audio (semaine complète)</title>
+    <link>https://piges.alexandremartinat.com/NRJ_Belgique/</link>
+    <description>Piges audio NRJ Belgique – 24h/24, 7j/7. Fichiers AAC mis à jour chaque semaine à l'heure de diffusion.</description>
+    <language>fr-fr</language>
+    <image>
+      <title>NRJ Belgique</title>
+      <url>https://piges.alexandremartinat.com/NRJ_Belgique/NRJ_Belgique.png</url>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/</link>
+    </image>
+    <item>
+      <title>NRJ Belgique – Lundi 00h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/00.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/00.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-00</guid>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 00h-01h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 01h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/01.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/01.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-01</guid>
+      <pubDate>Mon, 05 Jan 2026 01:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 01h-02h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 02h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/02.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/02.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-02</guid>
+      <pubDate>Mon, 05 Jan 2026 02:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 02h-03h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 03h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/03.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/03.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-03</guid>
+      <pubDate>Mon, 05 Jan 2026 03:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 03h-04h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 04h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/04.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/04.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-04</guid>
+      <pubDate>Mon, 05 Jan 2026 04:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 04h-05h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 05h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/05.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/05.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-05</guid>
+      <pubDate>Mon, 05 Jan 2026 05:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 05h-06h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 06h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/06.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/06.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-06</guid>
+      <pubDate>Mon, 05 Jan 2026 06:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 06h-07h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 07h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/07.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/07.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-07</guid>
+      <pubDate>Mon, 05 Jan 2026 07:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 07h-08h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 08h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/08.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/08.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-08</guid>
+      <pubDate>Mon, 05 Jan 2026 08:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 08h-09h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 09h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/09.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/09.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-09</guid>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 09h-10h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 10h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/10.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/10.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-10</guid>
+      <pubDate>Mon, 05 Jan 2026 10:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 10h-11h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 11h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/11.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/11.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-11</guid>
+      <pubDate>Mon, 05 Jan 2026 11:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 11h-12h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 12h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/12.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/12.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-12</guid>
+      <pubDate>Mon, 05 Jan 2026 12:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 12h-13h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 13h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/13.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/13.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-13</guid>
+      <pubDate>Mon, 05 Jan 2026 13:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 13h-14h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 14h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/14.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/14.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-14</guid>
+      <pubDate>Mon, 05 Jan 2026 14:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 14h-15h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 15h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/15.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/15.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-15</guid>
+      <pubDate>Mon, 05 Jan 2026 15:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 15h-16h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 16h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/16.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/16.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-16</guid>
+      <pubDate>Mon, 05 Jan 2026 16:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 16h-17h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 17h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/17.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/17.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-17</guid>
+      <pubDate>Mon, 05 Jan 2026 17:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 17h-18h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 18h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/18.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/18.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-18</guid>
+      <pubDate>Mon, 05 Jan 2026 18:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 18h-19h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 19h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/19.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/19.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-19</guid>
+      <pubDate>Mon, 05 Jan 2026 19:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 19h-20h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 20h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/20.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/20.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-20</guid>
+      <pubDate>Mon, 05 Jan 2026 20:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 20h-21h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 21h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/21.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/21.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-21</guid>
+      <pubDate>Mon, 05 Jan 2026 21:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 21h-22h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 22h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/22.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/22.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-22</guid>
+      <pubDate>Mon, 05 Jan 2026 22:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 22h-23h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Lundi 23h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Monday/23.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Monday/23.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Monday-23</guid>
+      <pubDate>Mon, 05 Jan 2026 23:00:00 +0100</pubDate>
+      <description>NRJ Belgique Lundi 23h-00h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 00h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/00.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/00.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-00</guid>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 00h-01h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 01h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/01.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/01.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-01</guid>
+      <pubDate>Tue, 06 Jan 2026 01:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 01h-02h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 02h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/02.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/02.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-02</guid>
+      <pubDate>Tue, 06 Jan 2026 02:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 02h-03h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 03h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/03.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/03.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-03</guid>
+      <pubDate>Tue, 06 Jan 2026 03:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 03h-04h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 04h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/04.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/04.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-04</guid>
+      <pubDate>Tue, 06 Jan 2026 04:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 04h-05h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 05h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/05.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/05.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-05</guid>
+      <pubDate>Tue, 06 Jan 2026 05:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 05h-06h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 06h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/06.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/06.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-06</guid>
+      <pubDate>Tue, 06 Jan 2026 06:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 06h-07h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 07h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/07.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/07.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-07</guid>
+      <pubDate>Tue, 06 Jan 2026 07:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 07h-08h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 08h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/08.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/08.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-08</guid>
+      <pubDate>Tue, 06 Jan 2026 08:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 08h-09h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 09h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/09.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/09.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-09</guid>
+      <pubDate>Tue, 06 Jan 2026 09:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 09h-10h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 10h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/10.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/10.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-10</guid>
+      <pubDate>Tue, 06 Jan 2026 10:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 10h-11h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 11h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/11.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/11.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-11</guid>
+      <pubDate>Tue, 06 Jan 2026 11:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 11h-12h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 12h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/12.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/12.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-12</guid>
+      <pubDate>Tue, 06 Jan 2026 12:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 12h-13h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 13h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/13.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/13.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-13</guid>
+      <pubDate>Tue, 06 Jan 2026 13:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 13h-14h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 14h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/14.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/14.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-14</guid>
+      <pubDate>Tue, 06 Jan 2026 14:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 14h-15h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 15h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/15.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/15.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-15</guid>
+      <pubDate>Tue, 06 Jan 2026 15:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 15h-16h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 16h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/16.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/16.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-16</guid>
+      <pubDate>Tue, 06 Jan 2026 16:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 16h-17h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 17h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/17.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/17.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-17</guid>
+      <pubDate>Tue, 06 Jan 2026 17:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 17h-18h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 18h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/18.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/18.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-18</guid>
+      <pubDate>Tue, 06 Jan 2026 18:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 18h-19h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 19h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/19.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/19.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-19</guid>
+      <pubDate>Tue, 06 Jan 2026 19:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 19h-20h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 20h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/20.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/20.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-20</guid>
+      <pubDate>Tue, 06 Jan 2026 20:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 20h-21h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 21h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/21.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/21.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-21</guid>
+      <pubDate>Tue, 06 Jan 2026 21:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 21h-22h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 22h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/22.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/22.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-22</guid>
+      <pubDate>Tue, 06 Jan 2026 22:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 22h-23h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mardi 23h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/23.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Tuesday/23.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Tuesday-23</guid>
+      <pubDate>Tue, 06 Jan 2026 23:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mardi 23h-00h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 00h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/00.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/00.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-00</guid>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 00h-01h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 01h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/01.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/01.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-01</guid>
+      <pubDate>Wed, 07 Jan 2026 01:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 01h-02h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 02h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/02.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/02.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-02</guid>
+      <pubDate>Wed, 07 Jan 2026 02:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 02h-03h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 03h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/03.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/03.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-03</guid>
+      <pubDate>Wed, 07 Jan 2026 03:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 03h-04h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 04h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/04.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/04.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-04</guid>
+      <pubDate>Wed, 07 Jan 2026 04:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 04h-05h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 05h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/05.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/05.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-05</guid>
+      <pubDate>Wed, 07 Jan 2026 05:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 05h-06h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 06h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/06.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/06.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-06</guid>
+      <pubDate>Wed, 07 Jan 2026 06:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 06h-07h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 07h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/07.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/07.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-07</guid>
+      <pubDate>Wed, 07 Jan 2026 07:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 07h-08h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 08h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/08.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/08.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-08</guid>
+      <pubDate>Wed, 07 Jan 2026 08:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 08h-09h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 09h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/09.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/09.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-09</guid>
+      <pubDate>Wed, 07 Jan 2026 09:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 09h-10h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 10h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/10.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/10.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-10</guid>
+      <pubDate>Wed, 07 Jan 2026 10:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 10h-11h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 11h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/11.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/11.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-11</guid>
+      <pubDate>Wed, 07 Jan 2026 11:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 11h-12h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 12h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/12.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/12.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-12</guid>
+      <pubDate>Wed, 07 Jan 2026 12:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 12h-13h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 13h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/13.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/13.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-13</guid>
+      <pubDate>Wed, 07 Jan 2026 13:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 13h-14h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 14h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/14.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/14.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-14</guid>
+      <pubDate>Wed, 07 Jan 2026 14:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 14h-15h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 15h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/15.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/15.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-15</guid>
+      <pubDate>Wed, 07 Jan 2026 15:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 15h-16h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 16h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/16.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/16.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-16</guid>
+      <pubDate>Wed, 07 Jan 2026 16:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 16h-17h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 17h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/17.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/17.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-17</guid>
+      <pubDate>Wed, 07 Jan 2026 17:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 17h-18h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 18h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/18.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/18.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-18</guid>
+      <pubDate>Wed, 07 Jan 2026 18:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 18h-19h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 19h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/19.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/19.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-19</guid>
+      <pubDate>Wed, 07 Jan 2026 19:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 19h-20h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 20h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/20.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/20.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-20</guid>
+      <pubDate>Wed, 07 Jan 2026 20:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 20h-21h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 21h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/21.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/21.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-21</guid>
+      <pubDate>Wed, 07 Jan 2026 21:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 21h-22h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 22h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/22.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/22.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-22</guid>
+      <pubDate>Wed, 07 Jan 2026 22:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 22h-23h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Mercredi 23h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/23.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Wednesday/23.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Wednesday-23</guid>
+      <pubDate>Wed, 07 Jan 2026 23:00:00 +0100</pubDate>
+      <description>NRJ Belgique Mercredi 23h-00h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 00h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/00.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/00.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-00</guid>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 00h-01h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 01h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/01.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/01.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-01</guid>
+      <pubDate>Thu, 08 Jan 2026 01:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 01h-02h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 02h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/02.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/02.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-02</guid>
+      <pubDate>Thu, 08 Jan 2026 02:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 02h-03h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 03h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/03.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/03.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-03</guid>
+      <pubDate>Thu, 08 Jan 2026 03:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 03h-04h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 04h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/04.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/04.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-04</guid>
+      <pubDate>Thu, 08 Jan 2026 04:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 04h-05h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 05h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/05.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/05.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-05</guid>
+      <pubDate>Thu, 08 Jan 2026 05:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 05h-06h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 06h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/06.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/06.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-06</guid>
+      <pubDate>Thu, 08 Jan 2026 06:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 06h-07h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 07h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/07.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/07.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-07</guid>
+      <pubDate>Thu, 08 Jan 2026 07:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 07h-08h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 08h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/08.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/08.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-08</guid>
+      <pubDate>Thu, 08 Jan 2026 08:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 08h-09h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 09h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/09.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/09.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-09</guid>
+      <pubDate>Thu, 08 Jan 2026 09:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 09h-10h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 10h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/10.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/10.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-10</guid>
+      <pubDate>Thu, 08 Jan 2026 10:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 10h-11h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 11h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/11.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/11.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-11</guid>
+      <pubDate>Thu, 08 Jan 2026 11:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 11h-12h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 12h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/12.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/12.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-12</guid>
+      <pubDate>Thu, 08 Jan 2026 12:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 12h-13h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 13h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/13.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/13.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-13</guid>
+      <pubDate>Thu, 08 Jan 2026 13:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 13h-14h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 14h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/14.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/14.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-14</guid>
+      <pubDate>Thu, 08 Jan 2026 14:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 14h-15h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 15h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/15.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/15.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-15</guid>
+      <pubDate>Thu, 08 Jan 2026 15:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 15h-16h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 16h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/16.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/16.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-16</guid>
+      <pubDate>Thu, 08 Jan 2026 16:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 16h-17h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 17h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/17.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/17.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-17</guid>
+      <pubDate>Thu, 08 Jan 2026 17:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 17h-18h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 18h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/18.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/18.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-18</guid>
+      <pubDate>Thu, 08 Jan 2026 18:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 18h-19h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 19h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/19.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/19.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-19</guid>
+      <pubDate>Thu, 08 Jan 2026 19:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 19h-20h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 20h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/20.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/20.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-20</guid>
+      <pubDate>Thu, 08 Jan 2026 20:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 20h-21h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 21h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/21.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/21.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-21</guid>
+      <pubDate>Thu, 08 Jan 2026 21:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 21h-22h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 22h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/22.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/22.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-22</guid>
+      <pubDate>Thu, 08 Jan 2026 22:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 22h-23h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Jeudi 23h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/23.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Thursday/23.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Thursday-23</guid>
+      <pubDate>Thu, 08 Jan 2026 23:00:00 +0100</pubDate>
+      <description>NRJ Belgique Jeudi 23h-00h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 00h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/00.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/00.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-00</guid>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 00h-01h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 01h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/01.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/01.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-01</guid>
+      <pubDate>Fri, 09 Jan 2026 01:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 01h-02h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 02h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/02.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/02.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-02</guid>
+      <pubDate>Fri, 09 Jan 2026 02:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 02h-03h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 03h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/03.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/03.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-03</guid>
+      <pubDate>Fri, 09 Jan 2026 03:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 03h-04h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 04h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/04.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/04.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-04</guid>
+      <pubDate>Fri, 09 Jan 2026 04:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 04h-05h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 05h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/05.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/05.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-05</guid>
+      <pubDate>Fri, 09 Jan 2026 05:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 05h-06h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 06h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/06.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/06.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-06</guid>
+      <pubDate>Fri, 09 Jan 2026 06:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 06h-07h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 07h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/07.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/07.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-07</guid>
+      <pubDate>Fri, 09 Jan 2026 07:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 07h-08h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 08h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/08.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/08.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-08</guid>
+      <pubDate>Fri, 09 Jan 2026 08:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 08h-09h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 09h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/09.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/09.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-09</guid>
+      <pubDate>Fri, 09 Jan 2026 09:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 09h-10h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 10h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/10.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/10.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-10</guid>
+      <pubDate>Fri, 09 Jan 2026 10:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 10h-11h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 11h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/11.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/11.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-11</guid>
+      <pubDate>Fri, 09 Jan 2026 11:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 11h-12h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 12h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/12.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/12.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-12</guid>
+      <pubDate>Fri, 09 Jan 2026 12:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 12h-13h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 13h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/13.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/13.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-13</guid>
+      <pubDate>Fri, 09 Jan 2026 13:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 13h-14h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 14h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/14.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/14.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-14</guid>
+      <pubDate>Fri, 09 Jan 2026 14:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 14h-15h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 15h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/15.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/15.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-15</guid>
+      <pubDate>Fri, 09 Jan 2026 15:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 15h-16h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 16h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/16.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/16.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-16</guid>
+      <pubDate>Fri, 09 Jan 2026 16:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 16h-17h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 17h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/17.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/17.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-17</guid>
+      <pubDate>Fri, 09 Jan 2026 17:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 17h-18h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 18h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/18.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/18.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-18</guid>
+      <pubDate>Fri, 09 Jan 2026 18:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 18h-19h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 19h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/19.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/19.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-19</guid>
+      <pubDate>Fri, 09 Jan 2026 19:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 19h-20h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 20h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/20.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/20.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-20</guid>
+      <pubDate>Fri, 09 Jan 2026 20:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 20h-21h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 21h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/21.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/21.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-21</guid>
+      <pubDate>Fri, 09 Jan 2026 21:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 21h-22h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 22h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/22.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/22.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-22</guid>
+      <pubDate>Fri, 09 Jan 2026 22:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 22h-23h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Vendredi 23h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Friday/23.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Friday/23.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Friday-23</guid>
+      <pubDate>Fri, 09 Jan 2026 23:00:00 +0100</pubDate>
+      <description>NRJ Belgique Vendredi 23h-00h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 00h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/00.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/00.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-00</guid>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 00h-01h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 01h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/01.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/01.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-01</guid>
+      <pubDate>Sat, 10 Jan 2026 01:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 01h-02h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 02h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/02.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/02.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-02</guid>
+      <pubDate>Sat, 10 Jan 2026 02:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 02h-03h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 03h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/03.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/03.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-03</guid>
+      <pubDate>Sat, 10 Jan 2026 03:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 03h-04h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 04h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/04.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/04.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-04</guid>
+      <pubDate>Sat, 10 Jan 2026 04:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 04h-05h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 05h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/05.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/05.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-05</guid>
+      <pubDate>Sat, 10 Jan 2026 05:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 05h-06h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 06h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/06.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/06.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-06</guid>
+      <pubDate>Sat, 10 Jan 2026 06:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 06h-07h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 07h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/07.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/07.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-07</guid>
+      <pubDate>Sat, 10 Jan 2026 07:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 07h-08h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 08h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/08.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/08.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-08</guid>
+      <pubDate>Sat, 10 Jan 2026 08:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 08h-09h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 09h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/09.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/09.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-09</guid>
+      <pubDate>Sat, 10 Jan 2026 09:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 09h-10h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 10h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/10.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/10.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-10</guid>
+      <pubDate>Sat, 10 Jan 2026 10:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 10h-11h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 11h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/11.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/11.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-11</guid>
+      <pubDate>Sat, 10 Jan 2026 11:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 11h-12h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 12h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/12.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/12.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-12</guid>
+      <pubDate>Sat, 10 Jan 2026 12:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 12h-13h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 13h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/13.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/13.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-13</guid>
+      <pubDate>Sat, 10 Jan 2026 13:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 13h-14h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 14h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/14.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/14.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-14</guid>
+      <pubDate>Sat, 10 Jan 2026 14:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 14h-15h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 15h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/15.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/15.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-15</guid>
+      <pubDate>Sat, 10 Jan 2026 15:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 15h-16h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 16h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/16.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/16.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-16</guid>
+      <pubDate>Sat, 10 Jan 2026 16:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 16h-17h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 17h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/17.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/17.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-17</guid>
+      <pubDate>Sat, 10 Jan 2026 17:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 17h-18h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 18h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/18.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/18.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-18</guid>
+      <pubDate>Sat, 10 Jan 2026 18:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 18h-19h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 19h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/19.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/19.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-19</guid>
+      <pubDate>Sat, 10 Jan 2026 19:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 19h-20h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 20h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/20.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/20.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-20</guid>
+      <pubDate>Sat, 10 Jan 2026 20:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 20h-21h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 21h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/21.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/21.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-21</guid>
+      <pubDate>Sat, 10 Jan 2026 21:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 21h-22h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 22h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/22.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/22.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-22</guid>
+      <pubDate>Sat, 10 Jan 2026 22:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 22h-23h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Samedi 23h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/23.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Saturday/23.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Saturday-23</guid>
+      <pubDate>Sat, 10 Jan 2026 23:00:00 +0100</pubDate>
+      <description>NRJ Belgique Samedi 23h-00h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 00h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/00.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/00.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-00</guid>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 00h-01h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 01h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/01.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/01.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-01</guid>
+      <pubDate>Sun, 11 Jan 2026 01:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 01h-02h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 02h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/02.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/02.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-02</guid>
+      <pubDate>Sun, 11 Jan 2026 02:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 02h-03h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 03h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/03.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/03.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-03</guid>
+      <pubDate>Sun, 11 Jan 2026 03:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 03h-04h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 04h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/04.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/04.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-04</guid>
+      <pubDate>Sun, 11 Jan 2026 04:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 04h-05h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 05h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/05.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/05.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-05</guid>
+      <pubDate>Sun, 11 Jan 2026 05:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 05h-06h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 06h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/06.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/06.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-06</guid>
+      <pubDate>Sun, 11 Jan 2026 06:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 06h-07h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 07h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/07.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/07.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-07</guid>
+      <pubDate>Sun, 11 Jan 2026 07:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 07h-08h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 08h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/08.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/08.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-08</guid>
+      <pubDate>Sun, 11 Jan 2026 08:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 08h-09h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 09h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/09.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/09.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-09</guid>
+      <pubDate>Sun, 11 Jan 2026 09:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 09h-10h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 10h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/10.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/10.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-10</guid>
+      <pubDate>Sun, 11 Jan 2026 10:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 10h-11h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 11h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/11.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/11.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-11</guid>
+      <pubDate>Sun, 11 Jan 2026 11:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 11h-12h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 12h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/12.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/12.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-12</guid>
+      <pubDate>Sun, 11 Jan 2026 12:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 12h-13h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 13h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/13.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/13.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-13</guid>
+      <pubDate>Sun, 11 Jan 2026 13:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 13h-14h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 14h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/14.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/14.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-14</guid>
+      <pubDate>Sun, 11 Jan 2026 14:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 14h-15h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 15h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/15.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/15.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-15</guid>
+      <pubDate>Sun, 11 Jan 2026 15:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 15h-16h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 16h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/16.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/16.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-16</guid>
+      <pubDate>Sun, 11 Jan 2026 16:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 16h-17h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 17h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/17.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/17.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-17</guid>
+      <pubDate>Sun, 11 Jan 2026 17:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 17h-18h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 18h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/18.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/18.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-18</guid>
+      <pubDate>Sun, 11 Jan 2026 18:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 18h-19h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 19h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/19.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/19.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-19</guid>
+      <pubDate>Sun, 11 Jan 2026 19:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 19h-20h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 20h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/20.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/20.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-20</guid>
+      <pubDate>Sun, 11 Jan 2026 20:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 20h-21h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 21h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/21.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/21.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-21</guid>
+      <pubDate>Sun, 11 Jan 2026 21:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 21h-22h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 22h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/22.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/22.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-22</guid>
+      <pubDate>Sun, 11 Jan 2026 22:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 22h-23h</description>
+    </item>
+    <item>
+      <title>NRJ Belgique – Dimanche 23h</title>
+      <link>https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/23.aac</link>
+      <enclosure url="https://piges.alexandremartinat.com/NRJ_Belgique/Sunday/23.aac" type="audio/aac" length="0"/>
+      <guid>NRJBelgique-Sunday-23</guid>
+      <pubDate>Sun, 11 Jan 2026 23:00:00 +0100</pubDate>
+      <description>NRJ Belgique Dimanche 23h-00h</description>
+    </item>
+  </channel>
+</rss>
